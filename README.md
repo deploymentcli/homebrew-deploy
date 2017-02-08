@@ -1,0 +1,2 @@
+# deploy
+brew install deploy
